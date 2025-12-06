@@ -21,7 +21,7 @@ const featuredProject = {
   description:
     "A brief but compelling description of your AI SaaS. Explain what problem it solves and who it's for. This is your chance to show you can ship real products.",
   longDescription:
-    "Go deeper here. Talk about the technical challenges you solved, the architecture decisions you made, and the results achieved. This builds credibility with potential clients.",
+    "I built an AI-powered education platform for teachers using Gemini AI, Next.js, and Supabase that reduced lesson planning time by 65% for 500+ teachers. The biggest technical challenges were implementing real-time AI response streaming to keep the UI responsive, managing API costs through intelligent caching and request batching (reducing costs by 60%), and building a secure multi-tenant architecture using Supabase's Row Level Security for data isolation across districts and schools. ",
   image: "/project-featured.png",
   tags: ["Next.js", "Supabase", "OpenAI", "Stripe", "Vercel"],
   metrics: [
