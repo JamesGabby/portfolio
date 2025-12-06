@@ -44,8 +44,8 @@ const navigationLinks = [
 const contactInfo = [
   {
     icon: Mail,
-    label: "hello@yourdomain.com",
-    href: "mailto:hello@yourdomain.com",
+    label: "jamesgabbitus@gmail.com",
+    href: "mailto:jamesgabbitus@gmail.com",
   },
   {
     icon: MapPin,

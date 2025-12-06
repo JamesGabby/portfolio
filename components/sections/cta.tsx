@@ -35,8 +35,8 @@ const contactMethods = [
     icon: Mail,
     title: "Send an Email",
     description: "Prefer email? I'll respond within 24 hours",
-    action: "hello@yourdomain.com",
-    href: "mailto:hello@yourdomain.com",
+    action: "jamesgabbitus@gmail.com",
+    href: "mailto:jamesgabbitus@gmail.com",
     primary: false,
   },
   {
