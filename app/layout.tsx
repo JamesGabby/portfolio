@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Your Name | AI-Powered MVP Builder",
+  title: "James Gabbitus | AI-Powered MVP Builder",
   description:
     "I help startup founders launch AI-powered products in 4-6 weeks using Next.js and Supabase. From idea to live product, fast.",
   keywords: [
@@ -21,28 +21,28 @@ export const metadata: Metadata = {
     "Freelance Developer",
     "Full Stack Developer",
   ],
-  authors: [{ name: "Your Name" }],
-  creator: "Your Name",
+  authors: [{ name: "James Gabbitus" }],
+  creator: "James Gabbitus",
   openGraph: {
     type: "website",
     locale: "en_GB",
     url: "https://yourdomain.com",
-    title: "Your Name | AI-Powered MVP Builder",
+    title: "James Gabbitus | AI-Powered MVP Builder",
     description:
       "I help startup founders launch AI-powered products in 4-6 weeks using Next.js and Supabase.",
-    siteName: "Your Name",
+    siteName: "James Gabbitus",
     images: [
       {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Your Name - AI MVP Builder",
+        alt: "James Gabbitus - AI MVP Builder",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Your Name | AI-Powered MVP Builder",
+    title: "James Gabbitus | AI-Powered MVP Builder",
     description:
       "I help startup founders launch AI-powered products in 4-6 weeks.",
     creator: "@yourhandle",

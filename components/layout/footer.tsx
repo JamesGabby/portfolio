@@ -82,7 +82,7 @@ export function Footer() {
                 <Sparkles className="w-5 h-5 text-white" />
               </div>
               <span className="font-bold text-lg group-hover:text-primary transition-colors duration-300">
-                Your Name
+                James Gabbitus
               </span>
             </Link>
 
